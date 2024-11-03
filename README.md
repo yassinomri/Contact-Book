@@ -41,7 +41,7 @@ This project is not just practical—it's a fantastic learning opportunity for a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/contact-book.git
+git clone https://github.com/yassinomri/Contact-Book-.git
 ```
 
 2. Open the project in Qt Creator:
